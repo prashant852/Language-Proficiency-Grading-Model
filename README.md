@@ -19,5 +19,10 @@ Modeling data is further divided into train-test in a 80:20 ratio which contains
 
 ## **Approaches**
 Preprocessing of text is done using below approaches followed by keras functional api architecture
-> **Bert Base Uncased** (Transformer model pretrained on a large corpus of English data in a self-supervised fashion)\
-> **Deberta v3** (Improvement on the BERT and RoBERTa models using disentangled attention and enhanced mask decoder)
+> **Bert Base Uncased** (Transformer model pretrained on a large corpus of English data in a self-supervised fashion) Modeling_Code_BERT_BASE_UNCASED.ipynb\
+> **Deberta v3** (Improvement on the BERT and RoBERTa models using disentangled attention and enhanced mask decoder) 
+
+
+Modeling code are in separate files for both approaches\
+>**Bert Base Uncased**: Modeling_Code_BERT_BASE_UNCASED.ipynb\
+>**Deberta v3**: fp3-ell-deberta.ipynb
