@@ -18,4 +18,4 @@ Modeling data is further divided into train-test in a 80:20 ratio which contains
 >**conventions (output)**: Analytic measure
 
 ## **Approach**
-Preprocessing of text is done using **Deberta v3** (Improvement on the BERT and RoBERTa models using disentangled attention and enhanced mask decoder) followed by keras functional API architecture
+Preprocessing of text is done using **Deberta v3** (Improvement on the BERT and RoBERTa models using disentangled attention and enhanced mask decoder) followed by keras functional API architecture. Trained on multi GPU in tensorflow
